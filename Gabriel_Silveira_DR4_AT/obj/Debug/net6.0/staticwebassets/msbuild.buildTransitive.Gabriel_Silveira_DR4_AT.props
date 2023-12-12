@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Gabriel_Silveira_DR4_AT.props" />
+</Project>

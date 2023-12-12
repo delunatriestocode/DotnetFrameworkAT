@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gabriel_Silveira_DR4_AT.props" />
+</Project>
